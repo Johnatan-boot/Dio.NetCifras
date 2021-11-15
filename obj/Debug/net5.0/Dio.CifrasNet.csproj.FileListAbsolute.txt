@@ -1,0 +1,16 @@
+C:\ProgramasCsharp\Dio.CifrasNet\Dio.CifrasNet\obj\Debug\net5.0\Dio.CifrasNet.csproj.AssemblyReference.cache
+C:\ProgramasCsharp\Dio.CifrasNet\Dio.CifrasNet\obj\Debug\net5.0\Dio.CifrasNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramasCsharp\Dio.CifrasNet\Dio.CifrasNet\obj\Debug\net5.0\Dio.CifrasNet.AssemblyInfoInputs.cache
+C:\ProgramasCsharp\Dio.CifrasNet\Dio.CifrasNet\obj\Debug\net5.0\Dio.CifrasNet.AssemblyInfo.cs
+C:\ProgramasCsharp\Dio.CifrasNet\Dio.CifrasNet\obj\Debug\net5.0\Dio.CifrasNet.csproj.CoreCompileInputs.cache
+C:\ProgramasCsharp\Dio.CifrasNet\Dio.CifrasNet\bin\Debug\net5.0\Dio.CifrasNet.exe
+C:\ProgramasCsharp\Dio.CifrasNet\Dio.CifrasNet\bin\Debug\net5.0\Dio.CifrasNet.deps.json
+C:\ProgramasCsharp\Dio.CifrasNet\Dio.CifrasNet\bin\Debug\net5.0\Dio.CifrasNet.runtimeconfig.json
+C:\ProgramasCsharp\Dio.CifrasNet\Dio.CifrasNet\bin\Debug\net5.0\Dio.CifrasNet.runtimeconfig.dev.json
+C:\ProgramasCsharp\Dio.CifrasNet\Dio.CifrasNet\bin\Debug\net5.0\Dio.CifrasNet.dll
+C:\ProgramasCsharp\Dio.CifrasNet\Dio.CifrasNet\bin\Debug\net5.0\ref\Dio.CifrasNet.dll
+C:\ProgramasCsharp\Dio.CifrasNet\Dio.CifrasNet\bin\Debug\net5.0\Dio.CifrasNet.pdb
+C:\ProgramasCsharp\Dio.CifrasNet\Dio.CifrasNet\obj\Debug\net5.0\Dio.CifrasNet.dll
+C:\ProgramasCsharp\Dio.CifrasNet\Dio.CifrasNet\obj\Debug\net5.0\ref\Dio.CifrasNet.dll
+C:\ProgramasCsharp\Dio.CifrasNet\Dio.CifrasNet\obj\Debug\net5.0\Dio.CifrasNet.pdb
+C:\ProgramasCsharp\Dio.CifrasNet\Dio.CifrasNet\obj\Debug\net5.0\Dio.CifrasNet.genruntimeconfig.cache
